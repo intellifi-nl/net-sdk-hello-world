@@ -13,7 +13,7 @@ The image below gives an overview of a .NET Ssolution using the *Intellifi .NET 
 1. Install Visual Studio if not already done so.
     - In the *visual studio installer* select the '.NET desktop development' from the available *workloads*.
 2. Download the *Intellifi .NET SDK* and extract it.
-    - Todo: **insert download instructions**
+    - [Go to this page to download the Intellifi .NET SDK](https://intellifi.zendesk.com/hc/en-us/articles/360008085773)
 3. Double click the `net-sdk-hello-world.sln` to op Visual Studio
 4. Add the required references to the project.
     - Right click 'References' under 'project' and select 'Add Reference...'
