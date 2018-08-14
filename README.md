@@ -11,15 +11,15 @@ The image below gives an overview of a .NET Ssolution using the *Intellifi .NET 
 ## Getting started
 
 1. Install Visual Studio if not already done so.
-  - In the *visual studio installer* select the '.NET desktop development' from the available *workloads*.
+    - In the *visual studio installer* select the '.NET desktop development' from the available *workloads*.
 2. Download the *Intellifi .NET SDK* and extract it.
-  - Todo: **insert download instructions**
+    - Todo: **insert download instructions**
 3. Double click the `net-sdk-hello-world.sln` to op Visual Studio
 4. Add the required references to the project.
-  1. Right click 'References' under 'project' and select 'Add Reference...'
-  2. Click 'Browse...'
-  3. Locate the Downloaded *Intellifi .NET SDK* and select the `Newtonsoft.Json.dll` and the `SpotLib.dll` files
-  4. click 'Add' and click 'OK'.
+    - Right click 'References' under 'project' and select 'Add Reference...'
+    - Click 'Browse...'
+    - Locate the Downloaded *Intellifi .NET SDK* and select the `Newtonsoft.Json.dll` and the `SpotLib.dll` files
+    - click 'Add' and click 'OK'.
 5. Compile and execute the *.NET SDK Hello World* application by clicking the 'Start' button on the top bar.
 
 ## Usage
